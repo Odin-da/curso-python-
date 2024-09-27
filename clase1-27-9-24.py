@@ -9,7 +9,7 @@ peso=float(input("Ingrese su peso :"))
 print(peso)
 print(type(peso))
 """
-
+#prueba 
 condicion=bool(input("Ingrese su condicion :"))
 print(condicion)
 print(type(condicion))
